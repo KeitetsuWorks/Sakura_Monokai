@@ -9,6 +9,7 @@
 
 ## Requirement
 * [サクラエディタ](http://sakura-editor.sourceforge.net/)
+* [MigMix 1M](http://mix-mplus-ipa.osdn.jp/migmix/)
 
 ## Install
 * [blog 渓鉄: サクラエディタを黒背景の配色（Monokai風）にカスタマイズする - C/C++強調キーワードセット付き](http://keitetsu.blogspot.jp/2015/06/monokai-cc.html)
