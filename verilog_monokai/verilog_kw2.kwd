@@ -1,0 +1,7 @@
+﻿// verilog_kw2 キーワード定義ファイル
+// CASE=False
+
+begin
+end
+fork
+join

@@ -1,0 +1,14 @@
+﻿// verilog_kw3 キーワード定義ファイル
+// CASE=False
+
+`default_nettype
+`define
+`else
+`elsif
+`endif
+`ifdef
+`ifndef
+`include
+`resetall
+`timescale
+`undef

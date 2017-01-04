@@ -1,0 +1,32 @@
+﻿// verilog_kw1 キーワード定義ファイル
+// CASE=False
+
+always
+assign
+break
+case
+casex
+default
+else
+endcase
+endfunction
+endmodule
+endtask
+for
+forever
+function
+if
+initial
+inout
+input
+integer
+module
+negedge
+output
+parameter
+posedge
+reg
+task
+wait
+while
+wire
