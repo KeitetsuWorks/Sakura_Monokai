@@ -1,14 +1,19 @@
 ﻿// verilog_kw3 キーワード定義ファイル
 // CASE=False
 
+`celldefine
 `default_nettype
 `define
 `else
 `elsif
+`endcelldefine
 `endif
 `ifdef
 `ifndef
 `include
+`line
+`nounconnected_drive
 `resetall
 `timescale
+`unconnected_drive
 `undef
