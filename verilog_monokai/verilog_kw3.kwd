@@ -1,4 +1,8 @@
-﻿// verilog_kw3 キーワード定義ファイル
+﻿// Verilog キーワード定義ファイル Compiler Directives
+// verilog_kw3.kwd
+//
+//  Created on: 2016/01/04
+//      Author: KeitetsuWorks
 // CASE=False
 
 `celldefine

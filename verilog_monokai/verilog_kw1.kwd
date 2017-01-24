@@ -1,4 +1,8 @@
-﻿// verilog_kw1 キーワード定義ファイル
+﻿// Verilog キーワード定義ファイル Keywords 1
+// verilog_kw1.kwd
+//
+//  Created on: 2016/01/04
+//      Author: KeitetsuWorks
 // CASE=False
 
 always
