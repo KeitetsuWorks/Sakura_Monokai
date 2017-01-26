@@ -5,20 +5,17 @@
 //      Author: KeitetsuWorks
 // CASE=True
 
+__declspec
+__except
+__finally
+__try
 break
 case
 catch
 class
 const
-__finally
-__exception
-__try
 const_cast
 continue
-private
-public
-protected
-__declspec
 default
 delete
 deprecated
@@ -30,10 +27,11 @@ else
 enum
 explicit
 extern
-if
+false
 for
 friend
 goto
+if
 inline
 mutable
 naked
@@ -42,6 +40,9 @@ new
 noinline
 noreturn
 nothrow
+private
+protected
+public
 register
 reinterpret_cast
 return
@@ -56,7 +57,6 @@ this
 thread
 throw
 true
-false
 try
 typedef
 typeid
@@ -65,7 +65,5 @@ union
 using
 uuid
 virtual
-void
 volatile
-whcar_t
 while
