@@ -2,13 +2,18 @@
 ========
 
 ## Description
-サクラエディタをMonokai風の配色するための色設定ファイルと，C/C++とVerilogのソースコードをシンタックスハイライト表示するためのキーワード設定ファイルです．
+サクラエディタをMonokai風の配色するための色設定ファイルと，下記の言語のソースコードをシンタックスハイライト表示するためのキーワード設定ファイルです．
+
+* C/C++
+* Tcl
+* Verilog
+* Markdown
 
 ## Demo
 ![Demo01](https://4.bp.blogspot.com/-H7TqPQKWSCE/WQSV4I7DEoI/AAAAAAAAC58/DWVoUDdhxtgGz6BbKo5mhfpkjuYey7F8gCPcB/s800/sakura_monokai_06.png)
 
 ## Requirement
-* [サクラエディタ](http://sakura-editor.sourceforge.net/)
+* [サクラエディタ](https://sakura-editor.github.io/)
 * [MigMix 1M](http://mix-mplus-ipa.osdn.jp/migmix/)
 
 ## Install
